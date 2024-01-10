@@ -1,0 +1,128 @@
+[
+    {
+        "no": "1",
+        "name": "Michael Johnson",
+        "created_at": "2023-03-06",
+        "waktu_masuk": "07:45 AM",
+        "waktu_keluar": "04:00 PM",
+        "keterangan": "Hadir",
+        "total": "08:15:00"
+    },
+    {
+        "no": "2",
+        "name": "Sarah Smith",
+        "created_at": "2023-10-30",
+        "waktu_masuk": "09:00 AM",
+        "waktu_keluar": "05:15 PM",
+        "keterangan": "Hadir",
+        "total": "08:15:00"
+    },
+    {
+        "no": "3",
+        "name": "David Wilson",
+        "created_at": "2023-11-06",
+        "waktu_masuk": "08:30 AM",
+        "waktu_keluar": "04:45 PM",
+        "keterangan": "Hadir",
+        "total": "08:15:00"
+    },
+    {
+        "no": "4",
+        "name": "Emily Davis",
+        "created_at": "2023-11-01",
+        "waktu_masuk": "10:30 AM",
+        "waktu_keluar": "06:45 PM",
+        "keterangan": "Hadir",
+        "total": "08:15:00"
+    },
+    {
+        "no": "5",
+        "name": "Olivia Miller",
+        "created_at": "2023-11-02",
+        "waktu_masuk": "09:15 AM",
+        "waktu_keluar": "05:30 PM",
+        "keterangan": "Hadir",
+        "total": "08:15:00"
+    },
+    {
+        "no": "6",
+        "name": "Daniel Anderson",
+        "created_at": "2023-11-03",
+        "waktu_masuk": "07:00 AM",
+        "waktu_keluar": "03:15 PM",
+        "keterangan": "Hadir",
+        "total": "08:15:00"
+    },
+    {
+        "no": "7",
+        "name": "Sophia Taylor",
+        "created_at": "2023-11-03",
+        "waktu_masuk": "08:45 AM",
+        "waktu_keluar": "04:00 PM",
+        "keterangan": "Hadir",
+        "total": "08:15:00"
+    },
+    {
+        "no": "8",
+        "name": "Matthew Harris",
+        "created_at": "2023-11-04",
+        "waktu_masuk": "08:15 AM",
+        "waktu_keluar": "04:30 PM",
+        "keterangan": "Hadir",
+        "total": "08:15:00"
+    },
+    {
+        "no": "9",
+        "name": "Oliver Jackson",
+        "created_at": "2023-11-05",
+        "waktu_masuk": "07:30 AM",
+        "waktu_keluar": "03:45 PM",
+        "keterangan": "Hadir",
+        "total": "08:15:00"
+    },
+    {
+        "no": "10",
+        "name": "Ava Brown",
+        "created_at": "2023-11-06",
+        "waktu_masuk": "08:00 AM",
+        "waktu_keluar": "04:15 PM",
+        "keterangan": "Hadir",
+        "total": "08:15:00"
+    },
+    {
+        "no": "11",
+        "name": "James Lee",
+        "created_at": "2023-11-07",
+        "waktu_masuk": "09:00 AM",
+        "waktu_keluar": "05:15 PM",
+        "keterangan": "Hadir",
+        "total": "08:15:00"
+    },
+    {
+        "no": "12",
+        "name": "Ella White",
+        "created_at": "2023-11-07",
+        "waktu_masuk": "08:30 AM",
+        "waktu_keluar": "04:45 PM",
+        "keterangan": "Hadir",
+        "total": "08:15:00"
+    },
+    {
+        "no": "13",
+        "name": "Benjamin Johnson",
+        "created_at": "2023-09-30",
+        "waktu_masuk": "08:45 AM",
+        "waktu_keluar": "04:00 PM",
+        "keterangan": "Hadir",
+        "total": "08:15:00"
+    },
+    {
+        "no": "14",
+        "name": "Michael Johnson",
+        "created_at": "2023-11-08",
+        "waktu_masuk": "07:45 AM",
+        "waktu_keluar": "04:00 PM",
+        "keterangan": "Hadir",
+        "total": "08:15:00"
+    }
+]
